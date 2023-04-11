@@ -1,0 +1,21 @@
+﻿  ConsoleApplication1.cpp
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(138,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(162,17): error C2440: “默认参数”: 无法从“const char [7]”转换为“LPCTSTR”
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(162,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(629,13): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(811,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(826,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(826,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(830,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(848,50): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(848,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(862,39): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(862,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(863,39): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(863,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(874,50): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+C:\note\项目\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(874,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明

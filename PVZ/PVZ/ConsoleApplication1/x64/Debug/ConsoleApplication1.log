@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\梁彦君\Documents\GitHub\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(138,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\梁彦君\Documents\GitHub\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(498,5): warning C4838: 从“double”转换到“int”需要收缩转换
+C:\Users\梁彦君\Documents\GitHub\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(498,5): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\梁彦君\Documents\GitHub\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(635,13): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\梁彦君\Documents\GitHub\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(818,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\梁彦君\Documents\GitHub\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(833,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\梁彦君\Documents\GitHub\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(833,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\梁彦君\Documents\GitHub\PVZ\PVZ\ConsoleApplication1\ConsoleApplication1.cpp(837,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\梁彦君\Documents\GitHub\PVZ\PVZ\x64\Debug\ConsoleApplication1.exe
